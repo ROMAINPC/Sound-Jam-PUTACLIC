@@ -17,3 +17,4 @@ Effets sonores et origine :
 * Coup bois : taper sur du bois.
 * Clic menu : coup sur la joue.
 * Crac bois : casser baguette bois + laisser tomber
+* Porte : vraie porte

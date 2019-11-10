@@ -8,4 +8,6 @@ Quelques enregistrements à la trompette (ROMAINPC) et à la guitare (Picachoc).
 ## Sons :
 Effets sonores et origine :
 
-
+* Clés : Tintement de clés + réverbération
+* Voix : Lorem ipsum accéléré et changements de hauteurs
+* Teddy bear : Canard qui fait pouet (Robocup 2019)

@@ -5,6 +5,8 @@ Avec Picachoc (https://github.com/picachoc). Equipe PUTACLIC en collaboration av
 ## Musiques :
 Quelques enregistrements à la trompette (ROMAINPC) et à la guitare (Picachoc). Picachoc a ensuite monté l'intégralité des pistes audio.
 
+Intro composée à la trompette avec Musescore 3
+
 ## Sons :
 Effets sonores et origine :
 

@@ -11,3 +11,6 @@ Effets sonores et origine :
 * Clés : Tintement de clés + réverbération
 * Voix : Lorem ipsum accéléré et changements de hauteurs
 * Teddy bear : Canard qui fait pouet (Robocup 2019)
+* Echec : Trompette + réverbération
+* Fauteil roulant : Chaise de bureau
+* Fouille : Remuer des affaires + zip

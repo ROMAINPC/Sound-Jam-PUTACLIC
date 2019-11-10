@@ -18,3 +18,4 @@ Effets sonores et origine :
 * Clic menu : coup sur la joue.
 * Crac bois : casser baguette bois + laisser tomber
 * Porte : vraie porte
+* Eau : Taper dans l'eau de son lavabo (penser à éponger)

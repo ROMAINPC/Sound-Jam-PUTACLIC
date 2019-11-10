@@ -21,3 +21,4 @@ Effets sonores et origine :
 * Crac bois : casser baguette bois + laisser tomber
 * Porte : vraie porte
 * Eau : Taper dans l'eau de son lavabo (penser à éponger)
+* Voiture : Embouchure trompette

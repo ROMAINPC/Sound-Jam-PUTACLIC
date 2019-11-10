@@ -14,3 +14,6 @@ Effets sonores et origine :
 * Echec : Trompette + réverbération
 * Fauteil roulant : Chaise de bureau
 * Fouille : Remuer des affaires + zip
+* Coup bois : taper sur du bois.
+* Clic menu : coup sur la joue.
+* Crac bois : casser baguette bois + laisser tomber
